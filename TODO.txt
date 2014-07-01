@@ -1,0 +1,8 @@
+TODO
+====
+
+- [ ] Check text formatting
+- [ ] Add comments.
+
+
+
